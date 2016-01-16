@@ -18,7 +18,6 @@ Custom/Transmog/Transmogrification.cpp
 Custom/Transmog/Transmogrifier.cpp
 Custom/1V1/npc_arena1v1.cpp
 Custom/1V1/npc_arena1v1.h
-Custom/PVP/arena_crystal.cpp
 Custom/Arenaspectator/arena_spectator.cpp
 Custom/CustomFunStuff/teleporter_npc.cpp
 Custom/CustomRate/custom_rates.cpp
@@ -28,7 +27,6 @@ Custom/PVP/arenaladder.cpp
 Custom/WorldChat/worldchat.cpp
 Custom/CustomFunStuff/titles.cpp
 Custom/CustomFunStuff/beastmaster.cpp
-Custom/CustomFunStuff/enchanter.cpp
 Custom/Killstreak/killstreak.cpp
 Custom/CustomFunStuff/cooldowns_crystal.cpp
 Custom/TemplateNPC/TemplateNPC.cpp
@@ -39,15 +37,12 @@ Custom/CustomFunStuff/announce_login.cpp
 Custom/CustomFunStuff/Bloodmoneyduels.cpp
 Custom/CustomFunStuff/Boss_Announcer.cpp
 Custom/CustomFunStuff/playertools.cpp
-Custom/CustomFunStuff/professions.cpp
 Custom/CustomFunStuff/Phased_duel.cpp
 Custom/CustomFunStuff/druidformhackfix.cpp
 Custom/CustomFunStuff/morpher_npc.cpp
 Custom/3v3/npc_solo3v3.cpp
 Custom/3v3/npc_solo3v3.h
 Custom/GoMove/GOMove.cpp
-Custom/Dementia/Arena_Anti-Draw.cpp
-Custom/Reforging/Reforging.cpp
 Custom/PVP/Glory.cpp
 Custom/BeastMasterNPC/npc_beastmaster.cpp
 Custom/Profession/npc_profession.cpp
