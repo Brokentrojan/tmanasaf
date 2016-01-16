@@ -49,6 +49,12 @@ Custom/GoMove/GOMove.cpp
 Custom/Dementia/Arena_Anti-Draw.cpp
 Custom/Reforging/Reforging.cpp
 Custom/PVP/Glory.cpp
+Custom/BeastMasterNPC/npc_beastmaster.cpp
+Custom/Profession/npc_profession.cpp
+Custom/Profession/npc_profession2.cpp
+Custom/Enchanter/npc_enchanter.cpp
+Custom/SuffixVendor/npc_suffixvendor.cpp
+Custom/SuffixVendor/npc_suffixvendor1.cpp
 )
 
 message("  -> Prepared: Custom")
