@@ -87,4 +87,4 @@ public:
 void AddSC_Npc_Beastmaster()
 {
     new Npc_Beastmaster();
-    }
+}
