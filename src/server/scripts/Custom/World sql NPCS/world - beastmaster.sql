@@ -1,6 +1,6 @@
 SET
-@Entry = 190006,
-@Name = "Beastmaster",
+@Entry = 190050,
+@Name = "beastmaster",
 @Subname = "Beast",
 @IconName = "Speak";
 
